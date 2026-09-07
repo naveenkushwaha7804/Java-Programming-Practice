@@ -47,3 +47,8 @@ java Star.Square
 └── Star
     └── Square.java
 ```
+## Sample Run (size 3)
+
+    * * * 
+    *   * 
+    * * * 
