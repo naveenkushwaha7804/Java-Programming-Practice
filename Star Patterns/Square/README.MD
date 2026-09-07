@@ -59,3 +59,8 @@ java Star.Square
     *     * 
     *     * 
     * * * * 
+
+## Notes
+
+- Size 1 or 2 prints a full square, since there is no inside to leave empty.
+- Each star is followed by a space, so the square looks even in the console.
