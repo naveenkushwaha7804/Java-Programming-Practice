@@ -23,4 +23,4 @@ public class Square {
 
         sc.close();
     }
-}
+}// Prints a hollow square of stars
