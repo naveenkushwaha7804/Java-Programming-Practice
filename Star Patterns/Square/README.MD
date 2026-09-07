@@ -52,3 +52,10 @@ java Star.Square
     * * * 
     *   * 
     * * * 
+
+## Sample Run (size 4)
+
+    * * * * 
+    *     * 
+    *     * 
+    * * * * 
