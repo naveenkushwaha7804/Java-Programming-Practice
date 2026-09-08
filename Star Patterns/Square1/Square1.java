@@ -112,4 +112,4 @@ public class Square1 {
 
         hollowRectangle(4, 5);
     }
-}
+}// Math helper methods and hollow rectangle pattern
