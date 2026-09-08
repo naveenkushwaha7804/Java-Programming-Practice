@@ -46,3 +46,10 @@ java Star.Square1
 └── Star
     └── Square1.java
 ```
+## Sample Output (calc, factorial, nCr)
+
+    calc(2, 3) = 5
+    calc(2, 3, 4) = 9
+    calc(2.5f, 3.5f) = 6.0
+    5! = 120
+    5C2 = 10
