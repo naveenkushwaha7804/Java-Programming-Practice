@@ -60,3 +60,9 @@ java Star.Square1
     2 3 5 7 11 13 17 19 (one per line)
     Decimal of 1011 = 11
     Binary of 11 = 1011
+
+## Notes
+
+- `isPrime` returns false for numbers less than 2.
+- `binomialCoefficient` avoids full factorials, so it does not overflow early.
+- `binaryToDecimal` expects the binary number as an int made of 0s and 1s (like 1011).
