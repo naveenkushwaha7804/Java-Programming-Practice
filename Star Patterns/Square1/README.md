@@ -53,3 +53,10 @@ java Star.Square1
     calc(2.5f, 3.5f) = 6.0
     5! = 120
     5C2 = 10
+
+## Sample Output (primes, binary and decimal)
+
+    Primes up to 20:
+    2 3 5 7 11 13 17 19 (one per line)
+    Decimal of 1011 = 11
+    Binary of 11 = 1011
