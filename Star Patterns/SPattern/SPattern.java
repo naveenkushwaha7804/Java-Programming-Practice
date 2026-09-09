@@ -30,4 +30,4 @@ public class SPattern {
 
         sc.close();
     }
-}
+}// Prints letter S using stars (use odd size)
