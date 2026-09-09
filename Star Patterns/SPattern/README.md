@@ -56,3 +56,16 @@ Use an odd size of 5 or more for a symmetric result.
                 *
                 *
     * * * * * *
+
+## Sample Run (size 9)
+
+    Enter size (odd number, 5 or more): 9
+      * * * * * * * * 
+    *
+    *
+    *
+      * * * * * * *
+                    *
+                    *
+                    *
+    * * * * * * * *
