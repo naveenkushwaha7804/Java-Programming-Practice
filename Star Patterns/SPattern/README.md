@@ -69,3 +69,9 @@ Use an odd size of 5 or more for a symmetric result.
                     *
                     *
     * * * * * * * *
+
+## Notes
+
+- Use an odd size of 5 or more. With an even size the top half and bottom half have different heights, so the S looks slightly uneven.
+- The middle row is found with `size / 2`.
+- Trailing spaces are not shown in the samples above.
