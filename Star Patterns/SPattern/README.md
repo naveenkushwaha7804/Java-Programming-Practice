@@ -46,3 +46,13 @@ Use an odd size of 5 or more for a symmetric result.
 - Nested loops
 - Boolean conditions
 - User input with `Scanner`
+## Sample Run (size 7)
+
+    Enter size (odd number, 5 or more): 7
+      * * * * * * 
+    *
+    *
+      * * * * *
+                *
+                *
+    * * * * * *
