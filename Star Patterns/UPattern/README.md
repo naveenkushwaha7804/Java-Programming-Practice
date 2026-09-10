@@ -49,3 +49,13 @@ java Star.UPattern
     *     *
     *     *
       * *
+
+## Sample Run (size 6)
+
+    Enter size: 6
+    *         *
+    *         *
+    *         *
+    *         *
+    *         *
+      * * * *
