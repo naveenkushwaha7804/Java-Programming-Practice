@@ -42,3 +42,10 @@ java Star.UPattern
 - Nested loops
 - Boolean conditions
 - User input with `Scanner`
+## Sample Run (size 4)
+
+    Enter size: 4
+    *     *
+    *     *
+    *     *
+      * *
