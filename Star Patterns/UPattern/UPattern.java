@@ -26,4 +26,4 @@ public class UPattern {
 
         sc.close();
     }
-}
+}// Prints letter U using stars
