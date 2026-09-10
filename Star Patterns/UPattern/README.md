@@ -59,3 +59,10 @@ java Star.UPattern
     *         *
     *         *
       * * * *
+
+## Notes
+
+
+- Use a size of 3 or more. With size 2 there is no space for the bottom row, so the U does not form.
+- The bottom row skips the first and last columns, which gives the rounded corners.
+- Trailing spaces are not shown in the samples above.
